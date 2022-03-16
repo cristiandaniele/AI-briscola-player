@@ -1,0 +1,25 @@
+{
+  "name": "aiproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/Cris94x/ai-project.git"
+  },
+  "author": "Cris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/Cris94x/ai-project/issues"
+  },
+  "homepage": "https://gitlab.com/Cris94x/ai-project#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "sha2": "^1.0.2",
+    "sha256": "^0.2.0"
+  }
+}
